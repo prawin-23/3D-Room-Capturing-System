@@ -1,4 +1,4 @@
-// Prawin Premachandran - premap1 - 400468579
+// Prawin Premachandran
 
 #include <stdint.h>
 #include "PLL.h"
